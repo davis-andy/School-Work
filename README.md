@@ -9,24 +9,16 @@ ATLS 4519 - Advanced Special Topics in Creative Technology & Design: Computer Ga
 
 ## Pasadena City College
 
-CIS 012 - Intro to Programming using Python
-
-CIS 014 - C++ Programming
-
-CIS 014 - C++ Programming (in Python)
-
-CIS 016 - Java Programming
-
-CIS 112 - Advanced Programming using Python
-
-ELTN 117 - Intro to Microcontrollers
-
+CIS 012 - Intro to Programming using Python<br>
+CIS 014 - C++ Programming<br>
+CIS 014 - C++ Programming (in Python)<br>
+CIS 016 - Java Programming<br>
+CIS 112 - Advanced Programming using Python<br>
+ELTN 117 - Intro to Microcontrollers<br>
 <br><br>
 
 ## University of London
 
-CSM 080 - Object-Oriented Programming
-
-CSM 090 - Principles of Programming
-
+CSM 080 - Object-Oriented Programming<br>
+CSM 090 - Principles of Programming<br>
 <br><br>
