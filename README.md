@@ -14,11 +14,11 @@ CIS 014 - C++ Programming<br>
 CIS 014 - C++ Programming (in Python)<br>
 CIS 016 - Java Programming<br>
 CIS 112 - Advanced Programming using Python<br>
-ELTN 117 - Intro to Microcontrollers<br>
+ELTN 117 - Intro to Microcontrollers
 <br><br>
 
 ## University of London
 
 CSM 080 - Object-Oriented Programming<br>
-CSM 090 - Principles of Programming<br>
+CSM 090 - Principles of Programming
 <br><br>
