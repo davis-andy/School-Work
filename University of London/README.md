@@ -4,17 +4,17 @@
 
 Machine learning is an important topic in both academia and industry these days. There has been growing interest in the practical side of machine learning. This module focuses more on the practical techniques and methods with Python and Scikit-Learn than on the theories or statistics behind these methods. The module enables students to gain hands-on and practical skills for machine learning-based analytics tasks, use appropriate Python libraries and tools to analyze data and develop the design and programming skills that will help build intelligent artifacts. The module helps students assess the performance of machine learning models and develop a deeper understanding of several real-life topics in applied machine learning, in order to develop the practical skills necessary to pursue research in applied machine learning. 
 
-Topics covered: 
-• Introduction to Python for machine learning 
-• Preparing data 
-• Feature selection for machine learning 
-• Resampling 
-• Feature evaluation 
-• Rule-based algorithms: decision tree and random forest 
-• Regression-based algorithms: logistic regression and neural networks 
-• Large-scale machine learning using TensorFlow 
-• Real-life case studies: financial forecasting  
-• Real-life case studies: computer vision 
+Topics covered: <br>
+• Introduction to Python for machine learning <br>
+• Preparing data <br>
+• Feature selection for machine learning <br>
+• Resampling <br>
+• Feature evaluation <br>
+• Rule-based algorithms: decision tree and random forest <br>
+• Regression-based algorithms: logistic regression and neural networks <br>
+• Large-scale machine learning using TensorFlow <br>
+• Real-life case studies: financial forecasting  <br>
+• Real-life case studies: computer vision <br>
 
 
 ## CSM 020 - Cloud Computing
