@@ -24,6 +24,8 @@ Application development using advanced Python programming techniques. Topics inc
 
 Emphasizes the choice and application of data structures and efficient algorithms in implementing applications, covering the most commonly used data structures such as linked lists, stacks and queues, search trees, maps, hashing, priority queues, sorting, and graphs.
 
+<br><br>
+
 # Electronics (ELTN)
 
 ## ELTN 117 - INTRODUCTION TO MICROCONTROLLERS AND EMBEDDED DESIGN
