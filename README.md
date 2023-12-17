@@ -2,7 +2,7 @@
 
 Assignments I have done throughout the years at different universities
 
-## University of Colorado
+## University of Colorado - Boulder
 
 ATLS 4519 - Advanced Special Topics in Creative Technology & Design: Computer Game Development for XBOX 360
 <br><br>
