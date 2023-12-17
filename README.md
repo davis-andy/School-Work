@@ -19,6 +19,14 @@ ELTN 117 - Intro to Microcontrollers
 
 ## University of London
 
+CSM 010 - Applied Machine Learning<br>
+CSM 020 - Cloud Computing<br>
+CSM 030 - Computer Systems<br>
+CSM 040 - Data Management<br>
+CSM 050 - Fundamentals of Computing<br>
+CSM 060 - Information Security<br>
+CSM 070 - Information Systems<br>
 CSM 080 - Object-Oriented Programming<br>
-CSM 090 - Principles of Programming
+CSM 090 - Principles of Programming<br>
+CSM 100 - Software Design and Programming
 <br><br>
