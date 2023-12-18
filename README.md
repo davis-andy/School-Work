@@ -17,7 +17,7 @@ CIS 112 - Advanced Programming using Python<br>
 ELTN 117 - Intro to Microcontrollers
 <br><br>
 
-## University of London
+## University of London (currently in progress but will upload after I have completed the program)
 
 CSM 010 - Applied Machine Learning<br>
 CSM 020 - Cloud Computing<br>
