@@ -167,7 +167,8 @@ Topics covered: <br>
 • Language features nested classes, closures, higher-order functions, meta-objects, etc. <br>
 • The functional paradigm. Abstract data types, polymorphic types, static typing, and type inference. Recursion and induction. List processing. Higher-order functions. Eager and lazy evaluation. Imperative features. Signatures, structures, functors, type classes, monads <br>
 • An introduction to Test Driven Design (TDD) and Behavioural Driven Design (BDD) <br>
-• The use of an Integrated Development Environment (IDE) for software development: e.g., editing, debugging, compilation, etc. • Modularity, versioning, packaging, and managing the build process <br>
+• The use of an Integrated Development Environment (IDE) for software development: e.g., editing, debugging, compilation, etc. <br>
+• Modularity, versioning, packaging, and managing the build process <br>
 • Design Patterns and Anti-Patterns and their application to software design <br>
 • The SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation, and Dependency inversion) approach to object-oriented programming and design <br>
 • Code refactoring and analysis <br>
