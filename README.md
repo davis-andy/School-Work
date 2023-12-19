@@ -1,6 +1,6 @@
 # School-Work
 
-Assignments I have done throughout the years at different universities
+Assignments I have done throughout the years at different universities<br><br>
 
 ## University of Colorado - Boulder
 
