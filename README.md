@@ -14,7 +14,16 @@ CIS 014 - C++ Programming<br>
 CIS 014 - C++ Programming (in Python)<br>
 CIS 016 - Java Programming<br>
 CIS 112 - Advanced Programming using Python<br>
-ELTN 117 - Intro to Microcontrollers
+ELTN 117 - Intro to Microcontrollers<br>
+
+There are more but will need to organize it to see what I have, but below are the classes I took:<br>
+CIS 010 - Introduction to Information Systems<br>
+CIS 031 - Introduction to Database Management Systems<br>
+CIS 036 - Visual Basic<br>
+CIS 199 - Ruby on Rails<br>
+DT 008A - Introduction to Digital Design and Fabrication
+ELTN 115 - Printed Circuit & Electronic Hardware Design
+ELTN 130 - Introduction to Electronics
 <br><br>
 
 ## University of London (currently in progress but will upload after I have completed the program)
